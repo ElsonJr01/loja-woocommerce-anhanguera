@@ -1,0 +1,13 @@
+# Arquivo sensível do WordPress
+wp-config.php
+
+# Uploads
+wp-content/uploads/
+
+# Banco de dados
+*.sql
+
+# Cache e logs
+wp-content/cache/
+wp-content/upgrade/
+*.log
