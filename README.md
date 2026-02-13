@@ -3,7 +3,6 @@
 Projeto acadêmico desenvolvido para a disciplina **Desenvolvimento de E-commerce com CMS**, da Faculdade Anhanguera.
 
 ## 1. Identificação
-- **Aluno:** Samuel Bezerra da Silva  
 - **Instituição:** Faculdade Anhanguera  
 - **Disciplina:** Desenvolvimento de E-commerce com CMS  
 - **Unidade:** U3 – E-commerce com WooCommerce  
